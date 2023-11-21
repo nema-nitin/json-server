@@ -1,0 +1,36 @@
+{
+    "explore_projects": [
+      {
+        "id": 1,
+        "header": "Move-in Ready Homes",
+        "imageUrl": "https://res.cloudinary.com/diqoy2zj7/image/upload/v1700456679/Explore%20Projects/pg5344g0n38lioajedd1.jpg",
+        "link": "/browse?page=1&pageSize=20&search=&sortField=max_unit_price&sortDirection=ascending&north=-78.88358773549187&south=-80.76276482899797&east=44.55035928402356&west=42.67335208742685&zoomLevel=8&typeEnum=&amenities=&numBedrooms=&numBathrooms=&facingDirection=&completionDate=2018%2C2019%2C2020%2C2021%2C2022&hasParking=&hasDen=&hasLocker=&minPrice=&maxPrice=&minPriceSqft=&maxPriceSqft=&minSqft=&maxSqft=&companyId=&maxDepositPercentage=&exteriorType=&depositAmount=&depositPercentage=&location=",
+        "created_at": "2023-11-13T03:11:48.000Z",
+        "updated_at": "2023-11-13T03:11:48.000Z"
+      },
+      {
+        "id": 3,
+        "header": "Condos below $500s",
+        "imageUrl": "https://res.cloudinary.com/diqoy2zj7/image/upload/v1700456679/Explore%20Projects/l2oz9wl4ncphoqaroxo3.jpg",
+        "link": "/browse?page=1&pageSize=20&search=&sortField=max_unit_price&sortDirection=ascending&north=-78.94450648268278&south=-80.82368357618884&east=44.532942677243796&west=42.655383335534566&zoomLevel=8&typeEnum=high_rise%2Cmid_rise&amenities=&numBedrooms=&numBathrooms=&facingDirection=&completionDate=&hasParking=&hasDen=&hasLocker=&minPrice=&maxPrice=500000&minPriceSqft=&maxPriceSqft=&minSqft=&maxSqft=&companyId=&maxDepositPercentage=&exteriorType=&depositAmount=&depositPercentage=&location=",
+        "created_at": "2023-11-13T03:11:48.000Z",
+        "updated_at": "2023-11-13T03:11:48.000Z"
+      },
+      {
+        "id": 2,
+        "header": "Homes with Wide Terraces",
+        "imageUrl": "https://res.cloudinary.com/diqoy2zj7/image/upload/v1700456679/Explore%20Projects/udpsswgserkn73s0rwqc.jpg",
+        "link": "/browse?page=1&pageSize=20&search=&sortField=max_unit_price&sortDirection=ascending&north=-78.70026849775734&south=-80.07393150224505&east=44.23413082093816&west=43.03485215188266&zoomLevel=8&typeEnum=&amenities=&numBedrooms=&numBathrooms=&facingDirection=&completionDate=&hasParking=&hasDen=&hasLocker=&minPrice=&maxPrice=&minPriceSqft=&maxPriceSqft=&minSqft=&maxSqft=&companyId=&maxDepositPercentage=&exteriorType=Terrace&depositAmount=&depositPercentage=&location=",
+        "created_at": "2023-11-13T03:11:48.000Z",
+        "updated_at": "2023-11-13T03:11:48.000Z"
+      },
+      {
+        "id": 4,
+        "header": "Best of Townhouses",
+        "imageUrl": "https://res.cloudinary.com/diqoy2zj7/image/upload/v1700456679/Explore%20Projects/upkr4rnsw2msgx3caaa8.jpg",
+        "link": "/browse?page=1&pageSize=20&search=&sortField=max_unit_price&sortDirection=ascending&north=-77.8865032707206&south=-81.52015942500373&east=45.194870097690426&west=41.55231350499861&zoomLevel=7&typeEnum=townhouse&amenities=&numBedrooms=&numBathrooms=&facingDirection=&completionDate=&hasParking=&hasDen=&hasLocker=&minPrice=&maxPrice=&minPriceSqft=&maxPriceSqft=&minSqft=&maxSqft=&companyId=&maxDepositPercentage=&exteriorType=&depositAmount=&depositPercentage=&location=",
+        "created_at": "2023-11-13T03:11:48.000Z",
+        "updated_at": "2023-11-13T03:11:48.000Z"
+      }
+    ]
+  }
