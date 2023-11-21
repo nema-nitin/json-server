@@ -32,5 +32,22 @@
         "created_at": "2023-11-13T03:11:48.000Z",
         "updated_at": "2023-11-13T03:11:48.000Z"
       }
+    ],
+    "just_launching": [
+        {
+            "title": "The Yorkville Flatiron<br /> from the $500s",
+            "desc": "Best price in the most prestigious neighborhood in Toronto.<br /> Get exclusive access to the floor plans and units today.",
+            "imageUrl": "https://99keys.ca/static/media/countdown-background.2933621d.png"
+        },
+        {
+            "title": "The Nitin Nema<br /> from the $400s",
+            "desc": "Lorem imsem lorem haha ji name inds fir.<br /> Get exclusive access to the floor plans and units today.",
+            "imageUrl": "https://99keys.ca/static/media/countdown-background.2933621d.png"
+        },
+        {
+            "title": "The Guru Raymond<br /> from the $200s",
+            "desc": "Best price in the town of lorem ipsem dummy.<br /> Get exclusive access to the floor plans and units today.",
+            "imageUrl": "https://99keys.ca/static/media/countdown-background.2933621d.png"
+        }
     ]
   }
